@@ -1,9 +1,9 @@
 # DataAnalysis_Python
-Exploratary Data Anaysis notebooks
+Exploratory Data Anaysis notebooks
 
-Feature Engeneering
+Feature Engineering
 
-Works on Python Libraries
+Focus on Python Libraries
 
 Handling missing data and outliers
 
